@@ -15,4 +15,4 @@ The dataset (Layoffs 2022 from Kaggle) contains information about global layoffs
 The final dataset is clean, consistent, and ready for further **EDA and visualization**.  
 
 ## 📂 Files
-- `Cleaning Portfolio Project 1.sql` – full SQL script.
+- CLEANING PROJECT.sql – full SQL script.
