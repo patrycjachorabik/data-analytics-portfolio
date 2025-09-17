@@ -9,9 +9,6 @@ The analysis includes data cleaning, pivot tables, and an interactive dashboard.
 2. Build **pivot tables** for summary analysis.  
 3. Create a **dashboard** with charts and slicers.  
 
-## 📸 Dashboard Preview
-![Excel Dashboard](images/excel_dashboard.png)
-
 ## ✅ Outcome
 - Clear insights into customer demographics and purchasing behavior.  
 - Interactive Excel dashboard for quick analysis.  
