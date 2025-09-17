@@ -10,8 +10,6 @@ Interactive report summarizing insights from a global survey of data professiona
 - 🚪 Difficulty of breaking into the data field.  
 - 😊 Happiness with work-life balance and salary (KPI indicators).  
 
-📸 Dashboard Preview:  
-![Survey Dashboard](images/survey_dashboard.png)
 
 ---
 
@@ -25,5 +23,4 @@ Business dashboard tracking company performance across sales and profitability.
 - ⚖️ Scatterplot for account profitability segmentation.  
 - 🔑 KPIs: Gross Profit %, Quantity, Sales.  
 
-📸 Dashboard Preview:  
-![Performance Dashboard](images/performance_dashboard.png)
+
